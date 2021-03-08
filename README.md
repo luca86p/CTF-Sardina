@@ -8,9 +8,9 @@ The challenge needs only:
 - internet connection (can help...)
 - intuition
 
-You need to find the flag into the level001 to unzip the level002, and so on...
+You need to find the flag into the level001 to unzip the level002 with the flag as the password, and so on...
 
-The level001 flag is `Croc0dilesRa1nstorm`
+The level001 password is `Croc0dilesRa1nstorm`
 
 ## Have fun!
 
